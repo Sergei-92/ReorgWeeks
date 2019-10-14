@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReorgWeeks
 {
-    class Program
+    class MainReorgWeeks
     {
         static void Main(string[] args)
         {
